@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noureldin-Dev
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on making social cause projects
+- 💞️ I’m looking to collaborate on humanitarian projects
 - 📫 How to reach me Noureldinelshenawy2006@gmail.com
 
 <!---
